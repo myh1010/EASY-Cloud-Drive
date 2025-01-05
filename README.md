@@ -1,2 +1,2 @@
-# EASY-Cloud-Drive
-A minimalist network cloud drive
+# EASY-Cloud-Storage
+A minimalist network cloud storage system using font aswsome
